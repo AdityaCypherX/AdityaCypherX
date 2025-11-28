@@ -4,83 +4,69 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 B.Tech CSE student at Galgotias University  
-- 📚 Currently learning AI, Machine Learning, Deep Learning, and GenAI through Apna College Prime Batch  
-- 🧠 Passionate about **Data Science**, **AI Engineering**, **NLP**, and building real-world ML/DL projects  
+- 🎓 **B.Tech CSE student** at Galgotias University  
+- 📚 Currently learning **AI, Machine Learning, Deep Learning, and Generative AI** through Apna College Prime Batch  
+- 🧠 Passionate about **Data Science, AI Engineering, NLP**, and building real-world ML/DL projects  
 - 💻 Comfortable coding in **Python, SQL**  
 - 🔧 Hands-on with **NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, PyTorch**  
-- 🌱 Eager to grow and build scalable AI systems, deploy models, and contribute to open-source
+- 🌱 Eager to grow, deploy models, and contribute to open-source projects
 
 ---
 
 ## 🛠️ Technologies & Tools  
-
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)  
-
-**Data & ML/DL:**  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-D94801?style=for-the-badge&logo=matplotlib&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-3E1F47?style=for-the-badge)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
-
-**Dev & Deployment:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+**Languages:** 🐍 Python · 🗄 SQL  
+**AI / ML / DL:** 📊 NumPy · Pandas · Matplotlib · Seaborn · Scikit-Learn · TensorFlow · PyTorch · Keras  
+**Dev & Deployment:** 🔧 Git & GitHub · Jupyter Notebook · VS Code · Flask · Docker · Kubernetes  
 
 ---
 
-## 📘 My AI/ML Journey Roadmap  
+## 📘 My Learning Journey
 
-### 🐍 Python & Programming  
-- ![Variables](https://img.shields.io/badge/Variables-FFDD00?style=for-the-badge) Variables & Operators  
-- ![Loops](https://img.shields.io/badge/Loops-1E90FF?style=for-the-badge) Conditional Statements & Loops  
-- ![Functions](https://img.shields.io/badge/Functions-32CD32?style=for-the-badge) Functions & Lambda  
-- ![OOP](https://img.shields.io/badge/OOPs-FF4500?style=for-the-badge) Object-Oriented Programming  
-- ![File](https://img.shields.io/badge/File_Handling-8A2BE2?style=for-the-badge) File Handling & JSON  
+### 🐍 Python & Programming
+- ⚡ Variables & Operators  
+- 🔄 Conditional Statements & Loops  
+- 🧩 Functions & Lambda Functions  
+- 📦 Lists, Tuples, Dictionaries, Sets  
+- 📁 File Handling & JSON Module  
+- 🏗 Object-Oriented Programming (OOPs)  
 
-### 📊 Data Analytics & Visualization  
-- ![Data](https://img.shields.io/badge/Data_Preprocessing-F4A460?style=for-the-badge) Data Cleaning & Preprocessing  
-- ![Visualization](https://img.shields.io/badge/Visualization-20B2AA?style=for-the-badge) Matplotlib & Seaborn  
-- ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge) SQL & Excel  
+### 📊 Data Analytics & Visualization
+- 🧹 Data Collection, Cleaning & Preprocessing  
+- 📈 Visualization: Matplotlib, Seaborn  
+- 🗃 Excel & SQL  
 
-### 🤖 Machine Learning  
-- ![Supervised](https://img.shields.io/badge/Supervised-FF6347?style=for-the-badge) Regression & Classification  
-- ![Unsupervised](https://img.shields.io/badge/Unsupervised-4682B4?style=for-the-badge) Clustering & Association  
-- ![Algorithms](https://img.shields.io/badge/Algorithms-DA70D6?style=for-the-badge) Linear Regression, KNN, Decision Trees, Naive Bayes, K-Means, PCA  
-- ![Evaluation](https://img.shields.io/badge/Evaluation-32CD32?style=for-the-badge) Precision, Recall, F1 Score, Bias-Variance  
+### 🤖 Machine Learning
+- 🏷 Supervised Learning: Regression & Classification  
+- 🔍 Unsupervised Learning: Clustering & Association  
+- 📌 Algorithms: Linear Regression, Logistic Regression, KNN, Decision Trees, Naive Bayes, K-Means, PCA  
+- 📊 Model Evaluation: Precision, Recall, F1 Score, Bias-Variance Tradeoff  
 
-### 🧠 Deep Learning  
-- ![NN](https://img.shields.io/badge/NN-Ff69b4?style=for-the-badge) Neural Networks (FNN, RNN, CNN, LSTM)  
-- ![Backprop](https://img.shields.io/badge/Backpropagation-FF8C00?style=for-the-badge) Forward & Backward Propagation  
-- ![Transformers](https://img.shields.io/badge/Transformers-8A2BE2?style=for-the-badge) Transformers  
+### 🧠 Deep Learning
+- 🕸 Neural Networks: FNN, RNN, CNN, LSTM  
+- 🔄 Forward & Backward Propagation  
+- ⚡ Transformers  
+- 📚 TensorFlow, PyTorch, Keras  
 
-### 🌐 Generative AI & NLP  
-- ![LLM](https://img.shields.io/badge/LLMs-FF1493?style=for-the-badge) GPT-style Models & NLP Pipelines  
-- ![GAN](https://img.shields.io/badge/GANs-00CED1?style=for-the-badge) Generative Adversarial Networks  
-- ![RAG](https://img.shields.io/badge/RAG-FF4500?style=for-the-badge) Retrieval-Augmented Generation  
-- ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge) API Integration & Agentic AI  
+### 🌐 Generative AI & NLP
+- 🤖 LLMs & GPT-style Models  
+- 📝 NLP Pipelines  
+- 🎨 GANs, RAG (Retrieval-Augmented Generation)  
+- 🛠 OpenAI API & Agentic AI  
 
-### ⚙️ AI Engineering Stack  
-- ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge) Web Deployment  
-- ![Frontend](https://img.shields.io/badge/Frontend-FFD700?style=for-the-badge) HTML, CSS, JS  
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge) Containerization  
-- ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge) Orchestration  
+### ⚙️ AI Engineering Stack
+- 🌐 Flask & Web Deployment  
+- 💻 Frontend basics: HTML, CSS, JS  
+- 🐳 Docker & Kubernetes for Deployment  
 
 ---
 
-## 📂 Projects & Practice  
-- Python fundamentals & coding practice  
-- Data Structures / Algorithms  
-- Machine Learning & Data Science experiments  
-- Deep Learning & Generative AI experiments (coming soon...)  
+## 📂 Projects & Practice
+- 🐍 Python fundamentals & coding practice  
+- 📚 Data Structures & Algorithms  
+- 🤖 Machine Learning & Data Science experiments  
+- 🧠 Deep Learning & Generative AI experiments (coming soon...)  
+
+> 🚧 More projects & ML/DL work will be added progressively.
 
 ---
 
@@ -92,22 +78,21 @@
 
 ---
 
-## 📬 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityajha01/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityacypherx@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adityacypherx/)  
+## 📬 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/adityajha01/)  
+- ✉️ Email: adityacypherx@gmail.com  
 
 ---
 
 ## ✨ Quotes That Inspire My Journey
-> 💡 "Learning never exhausts the mind; it empowers it." – Leonardo da Vinci  
-> 🚀 "The best way to predict the future is to create it." – Peter Drucker  
-> 🔥 "Success is not final, failure is not fatal: courage counts." – Winston Churchill  
-> ⚡ "Do not wait to strike till the iron is hot; make it hot by striking." – W.B. Yeats  
-> 🌟 "Strive to be of value, not just successful." – Albert Einstein  
-> 💻 "Code, Learn, Repeat. Every line brings me closer to becoming an AI Engineer!" – Aditya Jha  
+- 💡 "Learning never exhausts the mind; it empowers it." – Leonardo da Vinci  
+- 🚀 "The best way to predict the future is to create it." – Peter Drucker  
+- 🔥 "Success is not final, failure is not fatal: it is the courage to continue that counts." – Winston Churchill  
+- ⚡ "Do not wait to strike till the iron is hot; but make it hot by striking." – William Butler Yeats  
+- 🌟 "Strive not to be a success, but rather to be of value." – Albert Einstein  
+- 💻 "Code, Learn, Repeat. Every line brings me closer to becoming an AI Engineer!" – Aditya Jha  
 
 ---
 
-## 🌟 My Goal  
+## 🌟 My Goal
 To become a **full-stack AI Engineer**, mastering **AI/ML, Deep Learning, GenAI, and production-ready AI systems**.
