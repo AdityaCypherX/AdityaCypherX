@@ -81,17 +81,24 @@
 
 ## 📬 Connect With Me
 - LinkedIn: [in/adityajha01](https://www.linkedin.com/in/adityajha01/)  
-- Email: adityacypherx@gmail.com  
+- Email: adityajha375911@gmail.com  
 
 ---
 
 ## ✨ Quotes That Inspire My Journey
-> "Learning never exhausts the mind; it empowers it." – Leonardo da Vinci  
-> "The best way to predict the future is to create it." – Peter Drucker  
-> "Success is not final, failure is not fatal: it is the courage to continue that counts." – Winston Churchill  
-> "Do not wait to strike till the iron is hot; but make it hot by striking." – William Butler Yeats  
-> "Strive not to be a success, but rather to be of value." – Albert Einstein  
-> "Code, Learn, Repeat. Every line brings me closer to becoming an AI Engineer!" – Aditya Jha  
+<blockquote>
+"Learning never exhausts the mind; it empowers it." – Leonardo da Vinci  
+<br>
+"The best way to predict the future is to create it." – Peter Drucker  
+<br>
+"Success is not final, failure is not fatal: it is the courage to continue that counts." – Winston Churchill  
+<br>
+"Do not wait to strike till the iron is hot; but make it hot by striking." – William Butler Yeats  
+<br>
+"Strive not to be a success, but rather to be of value." – Albert Einstein  
+<br>
+"Code, Learn, Repeat. Every line brings me closer to becoming an AI Engineer!" – Aditya Jha
+</blockquote>
 
 ---
 
