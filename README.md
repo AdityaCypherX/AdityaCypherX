@@ -1,105 +1,59 @@
-<h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">AI/ML Learner | Data & Python Enthusiast | Future AI Engineer</h3>
+<h1 align="center">Hi 👋, I'm Aditya Kumar Jha (AdityaCypherX)</h1>
+<h3 align="center">AI/ML Enthusiast | Aspiring Data Scientist & AI Engineer</h3>
 
 ---
 
-## 🚀 About Me
-- 🎓 B.Tech CSE Student (3rd Year)  
-- 🤖 Passionate about **AI, ML, Deep Learning, GenAI & Agentic AI**
-- 📊 Skilled in Python, Data Analytics, ML Algorithms, SQL, Visualization  
-- 🧠 Currently learning **End-to-End AI Engineering + GenAI Development**
-- 🎯 Goal: Become an **AI Engineer / ML Engineer / GenAI Developer**
+## 🚀 About Me  
+- 🎓 B.Tech CSE student at Galgotias University  
+- 📚 Currently learning AI, Machine Learning, Deep Learning, and GenAI through Apna College Prime Batch  
+- 🧠 Passionate about **Data Science**, **AI Engineering**, **NLP**, and building real-world ML/DL projects  
+- 💻 Comfortable coding in **Python, SQL, 
+- 🔧 Hands-on with **NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, PyTorch**  
+- 🌱 Eager to grow and build scalable AI systems, deploy models, and contribute to open-source
 
 ---
 
-## 📚 My AI–ML Learning Journey
-I am following a complete roadmap covering:
+## 🛠️ Technologies & Tools  
 
-### **🔹 Python & Data**
-- Variables, Operators, Flow Control  
-- Functions, Lambda, Collections  
-- File Handling, JSON  
-- OOP in Python  
-
-### **🔹 Data Analysis & Preprocessing**
-- Data Cleaning, Handling Missing Values  
-- Feature Engineering  
-- Numpy, Pandas  
-- Data Visualization: Matplotlib, Seaborn  
-
-### **🤖 Machine Learning**
-- Probability, Statistics, CLT  
-- Supervised Learning  
-  - Linear Regression, Logistic Regression  
-  - KNN, Naive Bayes  
-  - Decision Trees, Random Forest  
-- Unsupervised Learning  
-  - K-Means, PCA  
-- Precision, Recall, F1-score, Bias–Variance  
-- Scikit-learn + Kaggle Practice  
-
-### **🧠 Deep Learning**
-- Neural Networks Basics  
-- Forward/Backward Propagation  
-- Perceptron, FNN  
-- RNN, LSTM  
-- CNN Architectures  
-- Transformers  
-- TensorFlow, Keras, PyTorch  
-
-### **🌐 GenAI (My Main Focus)**
-- LLMs & NLP  
-- RAG Systems  
-- Agentic AI  
-- GANs  
-- GenAI Engineering Stack  
-- Working with OpenAI APIs  
-- Tools: Cursor AI, GitHub Copilot, Claude  
-
-### **⚙️ AI Engineering & Development**
-- Flask (AI App Development)  
-- HTML, CSS, JS (Frontend Basics)  
-- SQL  
-- Git & GitHub  
-- Docker  
-- Kubernetes  
-
----
-
-## 🛠️ Tech Stack & Tools
 **Languages:**  
-Python, SQL, HTML, CSS, JavaScript  
+Python · SQL · 
 
-**Libraries & Frameworks:**  
-TensorFlow, Keras, PyTorch, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn  
+**AI / ML / DL:**  
+NumPy · Pandas · Matplotlib · Seaborn · Scikit-Learn · TensorFlow · PyTorch  
 
-**AI/GenAI Tools:**  
-OpenAI APIs, RAG, Agentic AI, Cursor AI, GitHub Copilot, Claude  
-
-**Developer Tools:**  
-Git, GitHub, VS Code, Jupyter Notebook, Docker  
+**Dev Tools & Others:**  
+Git & GitHub · Jupyter Notebook · VS Code · (Future: Docker, Flask, Web-deployment)
 
 ---
 
-## 📈 Currently Working On
-- My **AI–ML Journey** repo  
-- Deep Learning + GenAI projects  
-- ML mini projects  
-- AI Engineering stack  
+## 📘 What I’m Learning Right Now  
+- Machine Learning: regression, classification, clustering, model evaluation  
+- Deep Learning: Neural Networks, CNNs, RNNs / LSTMs, Transformers  
+- GenAI & NLP: LLMs, GPT-style models, NLP pipelines  
+- AI Deployment: building simple AI apps, API integration, backend & frontend basics  
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: *add your link here*  
-- Portfolio (coming soon)  
-- Email: *add your email here*  
+## 📂 Projects & Practice  
+I maintain repositories for:  
+- Python fundamentals & coding practice  
+- Data-structures / algorithms  
+- Machine Learning & Data-Science experiments    
+- AI / Deep Learning experiments (coming soon...)  
+
+> 🚧 More projects & ML/DL work will be added as I progress.
 
 ---
 
-## ✨ Fun Fact
-I love learning new technologies and building projects that solve real-world problems.
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaCypherX&theme=dark" alt="GitHub Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaCypherX&show_icons=true&theme=dark" alt="GitHub Stats Card" />
+</p>
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
-
+## 📬 Connect With Me  
+- LinkedIn: [[in/adityajha01](https://www.linkedin.com/in/adityajha01](https://www.linkedin.com/in/adityajha01/))  
+- Feel free to explore my repos, give feedback or connect for projects 🤝  
